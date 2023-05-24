@@ -1,6 +1,6 @@
 # Hi there, I'm Simon 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/simonweigold/])](https://www.linkedin.com/in/simonweigold/)
+<a href="https://www.linkedin.com/in/simonweigold/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ## About Me
 
@@ -10,8 +10,18 @@ I'm a Master's student and Data Scientist who enjoys exploring data and finding 
 
 Here are some programming languages and technologies I work with:
 
-- [![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)]()
-- [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)]()
+<p align="left">
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" width="36" height="36" alt="React" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.ibm.com/de-de/products/spss-statistics" target="_blank" rel="noreferrer"><img src="https://freepngimg.com/thumb/ibm/74720-statistics-ibm-analysis-spss-data-modeler.png" width="36" height="36" alt="React" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width="36" height="36" alt="React" /></a>
+<a href="https://visualstudio.microsoft.com/de/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.json.org/json-de.html" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" width="36" height="36" alt="React" /></a>
+
+
+
+
 <!--
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 - [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)]()
