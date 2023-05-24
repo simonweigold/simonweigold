@@ -22,10 +22,6 @@ Here are some programming languages and technologies I work with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonweigold&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="http://www.github.com/simonweigold"><img src="https://github-readme-stats.vercel.app/api?username=simonweigold&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon Weigold's GitHub stats" /></a>
-
-
-
 <!--
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width="36" height="36" alt="React" /></a>
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -34,6 +30,9 @@ Here are some programming languages and technologies I work with:
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="36" height="36" alt="React" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonweigold&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="http://www.github.com/simonweigold"><img src="https://github-readme-stats.vercel.app/api?username=simonweigold&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Simon Weigold's GitHub stats" /></a>
+
 
 ## Projects
 
