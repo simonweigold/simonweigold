@@ -22,6 +22,18 @@ Here are some programming languages and technologies I work with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonweigold&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
+## Some of my projects
+<table>
+<tr>
+
+|Title | Technologies|
+|--|--|
+| [Twitter Sentiment Analysis](https://github.com/simonweigold/twitter-sentiment-analysis) | <a href="https://www.nltk.org/_modules/nltk/sentiment/vader.html" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:4800/0*zKRz1UgqpOZ4bvuA" width="36" height="36" alt="React" /></a> <a href="https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="36" height="36" alt="React" /></a> <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"><img src="https://ggplot2.tidyverse.org/logo.png" width="36" height="36" alt="React" /></a> <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"><img src="https://tidyverse.tidyverse.org/logo.png" width="36" height="36" alt="React" /></a>|
+| [Data Mining](https://github.com/simonweigold/data-mining-capstone-project) | <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP?retiredLocale=de" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/HTTP_logo.svg" width="36" height="36" alt="React" /></a> <a href="https://ggplot2.tidyverse.org/" target="_blank" rel="noreferrer"><img src="https://ggplot2.tidyverse.org/logo.png" width="36" height="36" alt="React" /></a> <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer"><img src="https://tidyverse.tidyverse.org/logo.png" width="36" height="36" alt="React" /></a> <a href="https://rmarkdown.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://ulyngs.github.io/rmarkdown-workshop/slides/figures/rmarkdown.png" width="36" height="36" alt="React" /></a> |
+| [Battleships](https://github.com/simonweigold/battleships) | <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="36" height="36" alt="React" /></a> |
+
+</td>
+
 <!--
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width="36" height="36" alt="React" /></a>
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
