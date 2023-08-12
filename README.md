@@ -16,6 +16,10 @@ Here are some programming languages and technologies I work with:
 <a href="https://www.ibm.com/de-de/products/spss-statistics" target="_blank" rel="noreferrer"><img src="https://freepngimg.com/thumb/ibm/74720-statistics-ibm-analysis-spss-data-modeler.png" width="36" height="36" alt="React" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="36" height="36" alt="React" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="36" height="36" alt="React" /></a>
+<!--
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg" width="36" height="36" alt="React" /></a>
+-->
 <a href="https://www.json.org/json-de.html" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" width="36" height="36" alt="React" /></a>
 <a href="https://obsidian.md/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg" width="36" height="36" alt="React" /></a>
 
