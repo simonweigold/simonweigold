@@ -3,9 +3,14 @@
 <a href="https://www.linkedin.com/in/simonweigold/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ## About Me
-
 I'm a Master's student and Data Scientist who enjoys exploring data and finding insights that can help solve real-world problems. I'm passionate about leveraging data to drive decision-making, and always looking to learn more about machine learning and statistical analysis.
 
+<!--
+<p align="left">
+  <span style="display: inline-block; vertical-align: top;">I'm a Master's student and Data Scientist who enjoys exploring data and finding insights that can help solve real-world problems. I'm passionate about leveraging data to drive decision-making, and always looking to learn more about machine learning and statistical analysis.</span>
+  <span style="display: inline-block; vertical-align: top;"><img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100"></span>
+</p>
+-->
 ## Skills
 
 Here are some programming languages and technologies I work with:
