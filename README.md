@@ -32,6 +32,7 @@ Here are some programming languages and technologies I work with:
 <!--
 <a href="https://obsidian.md/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Obsidian_software_logo.svg" width="36" height="36" alt="React" /></a>
 -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="36" height="36" alt="React" /></a>
 
 ## My GitHub Stats
 
