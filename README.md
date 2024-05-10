@@ -37,7 +37,9 @@ Here are some programming languages and technologies I work with:
 <!--
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.usebruno.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" width="36" height="36" alt="React" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="36" height="36" alt="React" /></a>
 -->
+
 
 ## My GitHub Stats
 
