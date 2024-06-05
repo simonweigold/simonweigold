@@ -46,6 +46,7 @@ Here are some programming languages and technologies I work with:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonweigold&layout=compact&bg_color=000000&text_color=ffffff&hide_border=true&hide=html&langs_count=10&&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## Some of my projects
 <table>
 <tr>
@@ -59,7 +60,7 @@ Here are some programming languages and technologies I work with:
 | [Battleships](https://github.com/simonweigold/battleships) | <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="36" height="36" alt="React" /></a> |
 
 </td>
-
+-->
 <!--
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" width="36" height="36" alt="React" /></a>
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
