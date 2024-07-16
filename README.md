@@ -20,6 +20,7 @@ Here are some programming languages and technologies I work with:
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="36" height="36" alt="React" /></a>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://github.com/simonweigold/simonweigold/blob/main/imgs/flask.png" width="32" height="32" alt="React" /></a>
 <!--
+<a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/1920px-SQLAlchemy.svg.png" width=auto height="32" alt="React" /></a>
 <a href="https://www.ibm.com/de-de/products/spss-statistics" target="_blank" rel="noreferrer"><img src="https://freepngimg.com/thumb/ibm/74720-statistics-ibm-analysis-spss-data-modeler.png" width="36" height="36" alt="React" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="36" height="36" alt="React" /></a>
 -->
