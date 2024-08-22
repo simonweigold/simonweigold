@@ -18,8 +18,8 @@ Here are some programming languages and technologies I work with:
 <p align="left">
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/Rlogo.png" width="36" height="36" alt="React" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="36" height="36" alt="React" /></a>
-<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://github.com/simonweigold/simonweigold/blob/main/imgs/flask.png" width="32" height="32" alt="React" /></a>
 <!--
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://github.com/simonweigold/simonweigold/blob/main/imgs/flask.png" width="32" height="32" alt="React" /></a>
 <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/1920px-SQLAlchemy.svg.png" width=auto height="32" alt="React" /></a>
 <a href="https://www.ibm.com/de-de/products/spss-statistics" target="_blank" rel="noreferrer"><img src="https://freepngimg.com/thumb/ibm/74720-statistics-ibm-analysis-spss-data-modeler.png" width="36" height="36" alt="React" /></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/text%20editors/vscode.svg" width="36" height="36" alt="React" /></a>
@@ -39,8 +39,8 @@ Here are some programming languages and technologies I work with:
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="36" height="36" alt="React" /></a>
 <!--
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="36" height="36" alt="React" /></a>
 -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://github.com/simonweigold/simonweigold/blob/main/imgs/cloudflare_logo_icon_170372.png" width="36" height="36" alt="React" /></a>
 
 
