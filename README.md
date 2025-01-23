@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/simonweigold/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ## About Me
-I'm a Master's student and Data Scientist who enjoys exploring data and finding insights that can help solve real-world problems. I'm passionate about leveraging data to drive decision-making, and always looking to learn more about machine learning and statistical analysis.
+I'm a data guy and developer who enjoys exploring data and finding insights that can help solve real-world problems. I'm passionate about leveraging data to drive decision-making, and building systems that make such possible.
 
 <!--
 <p align="left">
